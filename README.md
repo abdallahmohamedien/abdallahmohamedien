@@ -37,3 +37,19 @@
 
 ### 👨‍💻 Current Projects
 * **[CryptoPulse](https://github.com/abdallahmohamedien/CryptoPulse):** A professional cryptocurrency tracking app built with React Native and Expo. 🚀
+
+* ---
+
+### 🚀 Featured Projects
+
+#### 1. [Interactive Movie Web App](https://github.com/abdallahmohamedien/movies-web-app)
+* A full-featured movie application that displays trending movies with search, favorites, and user authentication.
+* **Tech Stack:** Next.js, React, Tailwind CSS, MongoDB, NextAuth, and TMDB API.
+* 🔗 [Live Demo](https://movies-web-app-dun.vercel.app/)
+
+#### 2. [Weather App](https://github.com/abdallahmohamedien/weather-web-app)
+* A responsive weather application featuring real-time data, geolocation support, and dynamic animated backgrounds.
+* **Tech Stack:** Vue 3, TypeScript, API Integration, and Tailwind CSS.
+* 🔗 [Live Demo](https://weather-web-app-theta-five.vercel.app/)
+
+---
