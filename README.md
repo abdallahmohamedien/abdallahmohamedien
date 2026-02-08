@@ -20,7 +20,6 @@
 
 ### 📊 GitHub Stats
 <br/>
-
 ![Abdallah's Stats](https://github-readme-stats.vercel.app/api?username=abdallahmohamedien&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahmohamedien&layout=compact&theme=radical&hide_border=true)
 
