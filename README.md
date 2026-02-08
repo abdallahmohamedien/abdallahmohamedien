@@ -12,7 +12,7 @@
 ### 🛠 Top Technical Skills & Tools
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,py,cpp,git,figma,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,nodejs,py,cpp,git,figma,mongodb,mysql)]
 
 <br/>
 
