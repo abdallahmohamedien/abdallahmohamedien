@@ -3,8 +3,10 @@
 ## Hi, I'm Abdallah 👋
 ### Software Engineer | Full Stack Developer | React Native Specialist
 
-<img src="https://scontent.faly2-1.fna.fbcdn.net/v/t39.30808-6/475102043_2014054919058277_5754921261087069729_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=5MT04A5B3Z8Q7kNvwGMrwdy&_nc_oc=AdluAqgWCPRrsysmox1JdW3lYcF6O7KSd4ODX3idvR__og3Z3yXjSLv6GxqCg5k-J3I&_nc_zt=23&_nc_ht=scontent.faly2-1.fna&_nc_gid=BEI45MPVDNeowxVVRqeb2Q&oh=00_Afs7nM6sTvNtvTBFUlU7xa7JN3Cn1aZYtFB9QvwLZB0bsA&oe=698E57E5"/>
-
+<img src="https://scontent.faly2-1.fna.fbcdn.net/v/t39.30808-6/475102043_2014054919058277_5754921261087069729_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=5MT04A5B3Z8Q7kNvwGMrwdy&_nc_oc=AdluAqgWCPRrsysmox1JdW3lYcF6O7KSd4ODX3idvR__og3Z3yXjSLv6GxqCg5k-J3I&_nc_zt=23&_nc_ht=scontent.faly2-1.fna&_nc_gid=BEI45MPVDNeowxVVRqeb2Q&oh=00_Afs7nM6sTvNtvTBFUlU7xa7JN3Cn1aZYtFB9QvwLZB0bsA&oe=698E57E5" 
+  width="150" 
+  style="border-radius: 50%;" 
+  alt="Abdallah Profile" />
 ---
 
 ### 🛠 Top Technical Skills & Tools
