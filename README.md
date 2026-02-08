@@ -27,7 +27,7 @@
 ---
 
 ### 👨‍💻 Current Projects
-* **[CryptoPulse](https://github.com/abdallahmohamedien/CryptoPulse):** A professional cryptocurrency tracking app built with React Native and Expo. 🚀
+* **[CryptoPulse](https://github.com/abdallahmohamedien/native-app):** A professional cryptocurrency tracking app built with React Native and Expo. 🚀
 
 * ---
 
